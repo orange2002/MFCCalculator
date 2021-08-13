@@ -1,4 +1,5 @@
 # MFCCalculator
+
 A simple Calculator using MFC
 ☑ arithmetic + - * /
 ☑ triangle function
